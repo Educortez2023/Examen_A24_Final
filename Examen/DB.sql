@@ -1,3 +1,6 @@
+CREATE DATABASE bienesraices;
+USE bienesraices;
+
 CREATE TABLE Agentes (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nombre VARCHAR(255) NOT NULL,
